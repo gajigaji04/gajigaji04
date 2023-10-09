@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=How%to%use%me)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=How%20to%20use%20me)
 </div>
 
 <div align="center"> 
