@@ -5,7 +5,7 @@
 
 <div align="center"> 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -23,12 +23,12 @@
 
 <br/>
 
-### ✏️ Github stats
+## ✏️ Github stats
 
 ![gajigaji04's GitHub stats](https://github-readme-stats.vercel.app/api?username=gajigaji04&show_icons=true&theme=transparent)
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233A6B9E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234DA7E3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div> 
 
