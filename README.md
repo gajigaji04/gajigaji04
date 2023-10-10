@@ -1,7 +1,8 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=gajigaji04's%20Github&color=gradient&height=250)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=gajigaji04's%20Github&color=gradient&height=200&text-color=white)
 </div>
+
 
 
 <div align="center"> 
