@@ -1,7 +1,8 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=How%20to%20use%20me)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=gajigaji04's%20Github&color=gradient&height=250)
 </div>
+
 
 <div align="center"> 
 
