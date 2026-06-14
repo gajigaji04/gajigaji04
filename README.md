@@ -6,12 +6,6 @@
 
 <div align="center">
 
-## 👋 About Me
-
-Node.js 백엔드 개발자입니다.<br/>
-TypeScript와 Express를 활용한 REST API 개발을 즐기며,<br/>
-깔끔한 코드와 안정적인 서비스 설계를 추구합니다.
-
 </div>
 
 ---
